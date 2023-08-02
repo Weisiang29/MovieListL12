@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">movie</string>
+
+    <string name="title">Movie Title</string>
+    <string name="Genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="Rating">Rating</string>
+    <string name="insert">INSERT</string>
+    <string name="edit">EDIT</string>
+    <string name="showlist">SHOW LIST</string>
+    <string name="edt1">Enter movie title here</string>
+    <string name="edt2">Enter genre  here</string>
+    <string name="edt3">Enter year of release here</string>
+    <string name="showAll">SHOW ALL MOVIES WITH THIS RATING</string>
+
+
+
+</resources>
